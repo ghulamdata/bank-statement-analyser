@@ -1,0 +1,19 @@
+# Private bank statements
+*.pdf
+
+# Database configuration
+.env
+
+# Virtual environment
+.venv/
+
+# Private financial exports
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
